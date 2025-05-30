@@ -65,17 +65,6 @@
 *   اگر سرور ریستارت شود، تانل از کار می‌افتد و اسکریپت را باید مجدداً اجرا کنید (مگر اینکه `rc.local` به درستی تنظیم شده باشد). <mcreference link="https://github.com/raminol12/6to4" index="0">0</mcreference>
 *   این تانل تمامی پورت‌ها را بصورت یکجا تانل می‌کند و نیازی به وارد کردن پورت خاصی نیست (به جز پورت SSH برای فورواردینگ اولیه در سمت ایران). <mcreference link="https://github.com/raminol12/6to4" index="0">0</mcreference>
 
-## لینک گیت‌هاب
-
-[https://github.com/raminol12/6to4](https://github.com/raminol12/6to4)
-
-## حمایت
-
-این اسکریپت به صورت رایگان در اختیار شما قرار گرفته است. برای حمایت می‌توانید به پروژه ستاره بدهید. <mcreference link="https://github.com/raminol12/6to4" index="0">0</mcreference>
-
-حامی: [Ssh-User-management](https://github.com/HamedAp/Ssh-User-management) <mcreference link="https://github.com/raminol12/6to4" index="0">0</mcreference>
-
-گروه تلگرام برای حل مشکلات تانل: [https://t.me/panel2panel](https://t.me/panel2panel) <mcreference link="https://github.com/raminol12/6to4" index="0">0</mcreference>
 
 ## حمایت مالی
 
